@@ -1,6 +1,6 @@
 from datetime import  datetime
 
-if datetime.weekday == 2:
-    print ("hello world")
+if datetime.weekday == 0:
+    print ("Hell NAH!!! is monday again :(")
 else:
-    raise Exception("weekday is not 2")
+    raise Exception("thats ok we aint on monday")
